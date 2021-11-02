@@ -52,7 +52,7 @@ class grade {
         },
         {
           id: "融合理工",
-          style: MessageButtonStyles.SECONDARY,
+          style: MessageButtonStyles.DANGER,
         },
         {
           id: "経営工学",
@@ -92,7 +92,7 @@ class grade {
         },
         {
           id: "情報通信",
-          style: MessageButtonStyles.DANGER,
+          style: MessageButtonStyles.SECONDARY,
         },
         {
           id: "地球環境共創",
